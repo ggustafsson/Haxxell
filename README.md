@@ -1,4 +1,4 @@
-# 👾 Haxx
+# 👾 Haxxell
 
 - Miscellaneous Haskell programs.
 
